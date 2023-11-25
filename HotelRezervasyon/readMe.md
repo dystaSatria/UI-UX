@@ -1,1 +1,1 @@
-[https://github.com/dystaSatria/UI-UX/blob/main/HotelRezervasyon/Hotel%20rezer
+![Alt teks](URL_gambar)
